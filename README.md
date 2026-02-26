@@ -1,0 +1,1 @@
+This task involved transforming raw sales data into actionable insights using DAX (Data Analysis Expressions). The focus was on implementing best practices for Measures, Calculated Columns, and Calculated Tables to optimize report performance and readability.
